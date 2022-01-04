@@ -1,0 +1,8 @@
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\obj\Debug\Homework2.2.csproj.AssemblyReference.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\obj\Debug\Homework2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\obj\Debug\Homework2.2.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\bin\Debug\Homework2.2.exe.config
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\bin\Debug\Homework2.2.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\bin\Debug\Homework2.2.pdb
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\obj\Debug\Homework2.2.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\2. Базовые возможности С#\homework2.7\Homework2.2\Homework2.2\obj\Debug\Homework2.2.pdb
